@@ -1,0 +1,158 @@
+{
+    "vietnamese": [
+        {
+            "id": 1,
+            "name": "Chúng Ta Sau Này",
+            "singer": "T.R.I",
+            "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1010/ChungTaSauNay-TRI-6929586.mp3?st=l56Wr1fLE9fMnFehhpo5xg&e=1638782875",
+            "image": "https://avatar-nct.nixcdn.com/song/2021/01/27/5/2/2/b/1611738358661.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Bước Qua Nhau",
+            "singer": "Vũ",
+            "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1024/BuocQuaNhau-Vu-7120388.mp3?st=I9W59X1Odyi9QRGTehWfHg&e=1638708688",
+            "image": "https://avatar-nct.nixcdn.com/song/2021/11/19/6/d/9/1/1637317177185.jpg"
+                
+        },
+        {
+            "id": 3,
+            "name": "Muộn Rồi Mà Sao Còn",
+            "singer": "Sơn Tùng M-TP",
+            "path": "https://c1-ex-swe.nixcdn.com/Believe_Audio19/MuonRoiMaSaoCon-SonTungMTP-7011803.mp3?st=tD-Ln6qGqkdH659AeuHsjQ&e=1638782546",
+            "image": "https://avatar-nct.nixcdn.com/song/2021/04/29/9/1/f/8/1619691182261.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Thức Giấc",
+            "singer": "Da LAB",
+            "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1018/ThucGiac-DaLAB-7048212.mp3?st=1LcQhTisk8WrOQuzK4p86Q&e=1638782708",
+            "image": "https://avatar-nct.nixcdn.com/song/2021/07/14/8/c/f/9/1626231010810.jpg"
+        },
+        {
+            "id":5,
+            "name": "Độ Tộc 2",
+            "singer": "Masew, Pháo",
+            "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1020/DoToc2-MasewDoMixiPhucDuPhao-7064730.mp3?st=ehahZN3-iX9xYdBFgDgGcg&e=1638782785",
+            "image": "https://avatar-nct.nixcdn.com/song/2021/08/10/b/2/e/0/1628579601228.jpg"
+        },
+        
+        {
+            "id":7,
+            "name": "Dịu Dàng Em Đến",
+            "singer": "ERIK, NinjaZ",
+            "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1021/DiuDangEmDen-ERIKNinjaZ-7078877.mp3?st=QmjyqbnGv3jClPKm4oA1YQ&e=1638782938",
+            "image": "https://avatar-nct.nixcdn.com/song/2021/08/30/2/1/a/e/1630307726211.jpg"
+        },
+        {
+            "id":6,
+            "name": "Đế Vương",
+            "singer": "T.R.I",
+            "path": "https://drive.google.com/file/d/1SN3uzUbr6G5_TLo7qcZWWPHWhs0njnZM/view?usp=sharing",
+            "image": "https://avatar-nct.nixcdn.com/song/2021/01/27/5/2/2/b/1611738358661.jpg"
+        }
+    ], 
+    "english": [
+        {
+            "name": "Stay",
+            "singer": "The Kid LAROI, Justin Bieber",
+            "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1018/Stay-TheKidLAROIJustinBieber-7045258.mp3?st=tDMLXwH5rcrkO9nF-Y0mWA&e=1638769802",
+            "image": "https://avatar-nct.nixcdn.com/song/2021/07/09/5/5/8/2/1625815274622.jpg"
+        },
+        {
+            "name": "All Too Well",
+            "singer": "Taylor Swift",
+            "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1024/AllTooWell10MinuteVersionTaylorsVersion-TaylorSwift-7120438.mp3?st=moySlM-gRk8kpSEQdA729g&e=1638673508",
+            "image": "https://avatar-nct.nixcdn.com/song/2021/11/23/d/a/a/e/1637643196932_300.jpg"
+        },
+        {
+            "name": "Equal In The Darkness",
+            "singer": "Steve Aoki, Thái Y Lâm (Jolin Tsai), MAX",
+            "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1024/EqualInTheDarkness-SteveAokiThaiYLamJolinTsaiMAX-7116228.mp3?st=1TO5aq2W9pnBPnKJ-0BwLA&e=1638673651",
+            "image": "https://avatar-nct.nixcdn.com/song/2021/10/27/0/c/c/3/1635299658476_300.jpg"
+        },
+        {
+            "name": "Always Love You",
+            "singer": "Elton John, Young Thug, Nicki Minaj",
+            "path": "https://c1-ex-swe.nixcdn.com/Unv_Audio203/AlwaysLoveYou-EltonJohnYoungThugNickiMinaj-7114807.mp3?st=FjWol1PzZ4cmEPzH-8rKdQ&e=1638673737",
+            "image": "https://avatar-nct.nixcdn.com/song/2021/10/21/c/d/d/a/1634797395961.jpg"
+        },
+        {
+            "name": "Wildest Dreams (Taylor's Version)",
+            "singer": "Taylor Swift",
+            "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui1022/WildestDreamsTaylorsVersion-TaylorSwift-7090980.mp3?st=MqTkbQYsSI-Wri68OiCggA&e=1638673817",
+            "image": "https://avatar-nct.nixcdn.com/song/2021/09/17/5/a/b/4/1631889063619_300.jpg"
+        },
+        {
+            "name": "Lonely",
+            "singer": "Justin Bieber, Benny Blanco",
+            "path": "https://c1-ex-swe.nixcdn.com/Unv_Audio197/Lonely-JustinBieberbennyblanco-6993497.mp3?st=HfdveKXgMQiQEl5_nrafHg&e=1638784621",
+            "image": "https://avatar-nct.nixcdn.com/song/2020/10/16/7/4/6/2/1602823109092.jpg"
+        },
+        {
+            "name": "Intentions",
+            "singer": "Justin Bieber, Quavo",
+            "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui995/Intentions-JustinBieberQuavo-6217997.mp3?st=hcdpQpM3beevQ-_6KJ82dA&e=1638784782",
+            "image": "https://avatar-nct.nixcdn.com/song/2020/02/07/2/0/7/2/1581052824234.jpg"
+        },
+        {
+            "name": "Hold On",
+            "singer": "Justin Bieber, Dominic Fike",
+            "path": "https://c1-ex-swe.nixcdn.com/Unv_Audio201/HoldOn-JustinBieber-7103059.mp3?st=Jb7CePADDk5Lz9NMD9pSAQ&e=1638784678",
+            "image": "https://avatar-nct.nixcdn.com/song/2021/03/05/2/1/7/c/1614931554567.jpg"
+        },
+        {
+            "name": "Monster",
+            "singer": "Shawn Mendes, Justin Bieber",
+            "path": "https://c1-ex-swe.nixcdn.com/Unv_Audio188/Monster-ShawnMendesJustinBieber-6838261.mp3?st=w65iy6S0b1mtDlUnsZOceA&e=1638784732",
+            "image": "https://avatar-nct.nixcdn.com/song/2020/11/23/0/2/3/c/1606100084558.jpg"
+        },
+        {
+            "name": "All Around Me",
+            "singer": "Justin Bieber",
+            "path": "https://c1-ex-swe.nixcdn.com/NhacCuaTui995/AllAroundMe-JustinBieber-6223828.mp3?st=vvGCbil4vC_5l_05XNgOtw&e=1638873647",
+            "image": "https://avatar-nct.nixcdn.com/song/2020/02/14/a/9/d/b/1581658518670.jpg"
+        }
+    ],
+    "artists":[
+        {
+            "id":1,
+            "singer": "Vũ",
+            "image": "https://avatar-nct.nixcdn.com/song/2021/11/19/6/d/9/1/1637317177185.jpg"
+        },
+        {
+            "id":2,
+            "singer": "Sơn Tùng",
+            "image": "https://scontent.fsgn5-6.fna.fbcdn.net/v/t1.6435-9/173292019_315063713309362_6329146106221360649_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=TpbRI7jmt3gAX9JjDX_&_nc_ht=scontent.fsgn5-6.fna&oh=00_AT9J0A4aYej17qLxhJzaKPJJPNa5BhSumwftqtrbyUkoOQ&oe=620E33FD"
+        }, 
+        {
+            "id":3,
+            "singer": "Bích Phương",
+            "image": "https://scontent.fsgn5-6.fna.fbcdn.net/v/t39.30808-6/255773808_439970194151368_4427252100003849026_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=41aMRxbwBSQAX8JHLR-&_nc_ht=scontent.fsgn5-6.fna&oh=00_AT-eBSbOHWZRvSBCb3tTSqN86cMecE-eFzQjpxMUVqQhOA&oe=61EDABFA"
+        },
+        {
+            "id": 4,
+            "singer": "MIN",
+            "image": "https://scontent.fsgn5-12.fna.fbcdn.net/v/t39.30808-6/237897953_386264666191164_857794842203227679_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=YCxEkSW0bZUAX_NW4L_&_nc_ht=scontent.fsgn5-12.fna&oh=00_AT-9i1LvPWQdLfeT8q05iAGl1cAD2bTst-xkK6OV9oSMLw&oe=61EC2727"
+        }, {
+            "id": 5,
+            "singer": "Erik",
+            "image": "https://scontent.fsgn5-6.fna.fbcdn.net/v/t39.30808-6/240719032_388858152606227_843880445081379246_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=V1tvugo6-CcAX_mZuxU&_nc_ht=scontent.fsgn5-6.fna&oh=00_AT8IjmnBTq3jSGeKu7cc1sg-yAAq2ScJieUg27qfvZzz2g&oe=61ED6CBA"
+        },
+        {
+            "id": 6,
+            "singer": "Ariana Grande",
+            "image": "https://scontent.fsgn5-6.fna.fbcdn.net/v/t39.30808-6/256668034_4585903794825714_259423442880367616_n.jpg?_nc_cat=1&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=-UWgNKGAakMAX84G7dN&_nc_ht=scontent.fsgn5-6.fna&oh=00_AT_4PUMjXIXw6ULu3Uwm5AIuzbR6L7soATyAObVx9ROvDA&oe=61ED8E8C"
+        }, 
+        {
+            "id": 7,
+            "singer": "justin Bieber",
+            "image": "https://lh3.googleusercontent.com/pW7Jv2o8g0bkXFi11hrumm_N0e7KAf5pc5bawoSdD44uTLAYQi-Eeh1t1HileeiMx-9pXN6hQROW-OBEzWQWcEs2"
+        },
+        {
+            "id": 8,
+            "singer": "Taylor Swift",
+            "image": "https://lh3.googleusercontent.com/_fnSo5pFwGb7QJZL6iOTYkHwSJ9yvA16yKZRHUTDodzKTu3kUFu9apc69J8SlP-Q2HUymWy4TNxK4B9mUhubl01d"
+        }
+    ]
+}
